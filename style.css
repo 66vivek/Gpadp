@@ -1,0 +1,110 @@
+body{
+    background: white;
+    margin: 0;
+    padding:o;
+}
+
+.toparea{
+    background: #B45550;
+    padding: 10px 0;
+    color: white;
+    text-align: center;
+}
+.titlearea{
+    background:#F2C38B;
+    padding: 30px 0;
+    text-align: center;
+}
+
+.titlearea img{
+    width:100px;
+}
+
+.titlearea h1{
+    font-weight: 700;
+    color: #74353f;
+    text-shadow: 2px 8px 6px #0003, 0 -5px 16px #ffffff4d;
+}
+  
+.nav-link{
+     color: #4A4A4B !important;
+     background:  !important;
+     text-align: center;
+ }
+    
+
+.principal{
+    background: white;
+    padding: 50px 0;
+    text-align: center;
+}
+.pmessage{
+    float: left;
+    margin: 10%;
+    width: 80%;
+    height: auto;
+}
+.text-justify{
+    text-align: justify !important;
+}
+.text-right{
+    text-align: right !important;
+}
+.coursearea{
+    text-align: center;
+    background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0.5)),url(bg.jpg);
+    padding: 100px 0;
+    
+}
+.box{
+    margin: 20px ;
+    padding: 25px;
+    background: white;
+    border: solid 1px black;
+}
+.box img{
+    width: 100%;
+    transition: all 2s;
+}
+.box:hover img{
+    transform: rotate(360deg);
+}
+.alumni{
+    text-align: center;
+    padding: 50px 0 150px;
+    background: #000 url(alumnibg.c44739f2d7dcb5d0.jpg) bottom center;
+
+}
+.footerarea{
+    padding: 50px 0;
+    background: #2f2f2f url(micro_carbon.cfa0758c9310a463.png);
+}
+.footerarea h5{
+    color: #fff;
+    border-left: solid 5px #FFF;
+    padding-left: 10px;
+} 
+.footerarea p{
+    color: #f2c38b;
+}
+.footerarea a{
+    color: #d37f57;
+    text-decoration: none !important;
+}
+ul{
+    list-style: none;
+}
+ul li a, p a{
+    color: #d37f57;
+    text-decoration: none !important;
+}
+.kline{
+    background-image: linear-gradient(to right, transparent, #DBDBDB, transparent);
+    border: 0;
+    height: 1px;
+}
+.footerbottom{
+    text-align: center;
+    color: white;
+    padding-top: 20px ;
+}
